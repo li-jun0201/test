@@ -1,6 +1,6 @@
 loc.cloud:
   config:
-    param1: ttt
-    param2: 222
+    param1: 3333
+    param2: 222222
   controller:
-    param3: www
+    param3: 333452
