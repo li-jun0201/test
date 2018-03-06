@@ -1,6 +1,6 @@
 loc.cloud:
   config:
-    param1: 3333
+    param1: 4444
     param2: 222222
   controller:
-    param3: 333452
+    param3: ddde
